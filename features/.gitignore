@@ -1,0 +1,7 @@
+.byebug_history
+reports/
+.env
+.ruby-version
+*.log
+*.DS_Store
+log.txt
